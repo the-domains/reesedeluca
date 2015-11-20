@@ -1,0 +1,14 @@
+layout_spectrum: 0.9968141
+typography_spectrum: 0.1657093
+color:
+  saturation: 0.9867287
+  lightness: 0.6280622
+  brandStrength: 0.9471831
+  rhythmicContrast: 0.5477158
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Reesedeluca
