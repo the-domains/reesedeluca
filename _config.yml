@@ -1,14 +1,28 @@
+name: Reesedeluca
+favicon: null
 layout_spectrum: 0.9968141
 typography_spectrum: 0.1657093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9867287
-  lightness: 0.6280622
-  brandStrength: 0.9471831
-  rhythmicContrast: 0.5477158
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: Reesedeluca
+  brandStrength: 0.9471831
+  lightness: 0.6280622
+  saturation: 0.9867287
+  rhythmicContrast: 0.5477158
+purpose: []
